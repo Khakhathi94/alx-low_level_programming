@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 /**
- * main - Prints the alphabet in lower cases
+ * main - Printing the alphabets.
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
+char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int i;
 
-	for (i = 0; i < 26; i++)
+	for (i = 0; i < 52; i++)
 	{
 		putchar(alp[i]);
 	}
