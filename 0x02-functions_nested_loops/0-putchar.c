@@ -1,7 +1,8 @@
 #include "main.h"
+#include "main.h"
 /**
-* main - print _putchar 
-* prints the function
+* main - print _putchar
+* is written by mbah
 * Return: 0
 */
 int main(void)
